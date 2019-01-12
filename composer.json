@@ -2,7 +2,7 @@
     "name": "fernandesramon/wkhtmltopdf-amd64-centos6",
     "description": "wkhtmltopdf binaries for CentOS 6 amd64.",
     "keywords" : ["wkhtmltopdf", "centos6"],
-    "license": "LGPL Version 3",
+    "license": "GPL-3.0-only",
     "homepage": "http://wkthmltopdf.org/",
     "minimum-stability": "stable",
     "bin": [
